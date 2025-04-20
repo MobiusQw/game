@@ -278,10 +278,12 @@ header nav ul li.btn a:hover{
     text-align: center;
 }
 
-.projects .images{
+ .projects .images{ /*это я делала сама */
     display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 30px; 
+    gap: 27px;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    margin-bottom: 33px; 
 }
 
 .projects .see-all{
@@ -291,7 +293,7 @@ header nav ul li.btn a:hover{
     margin: 0 auto;
 }
 
-.projects .images img {
+/* хз че это .projects .images img {
     margin-right: 1px;
-}
+} */
 
