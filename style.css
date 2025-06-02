@@ -174,13 +174,13 @@ header nav ul li.btn a:hover, .email .block button:hover{
    justify-content: space-between; 
    width: 100%;
    padding: 50px 0;
+    gap: 20px;
 }
 
 .trending .games span{
     display: block;
     text-align: center;
     margin-top: 20px;
-    padding: 5px
 }
 
 .trending .games span img{
